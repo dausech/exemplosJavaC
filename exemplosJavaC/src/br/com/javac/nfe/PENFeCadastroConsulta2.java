@@ -19,7 +19,7 @@ public class PENFeCadastroConsulta2 {
       
     private static final String URI = "https://nfe.sefaz.pe.gov.br/nfe-service/services/CadConsultaCadastro2";  
   
-    private static final String CNPJ = "05371395000152";  
+    private static final String CNPJ = "99999999999";
     private static final String ESTADO_CONSULTA = "26";  
     private static final String ESTADO_XML = "PE";  
       
